@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "elasticsearch": "^16.7.1",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "winston": "^3.3.3",
     "yargs": "^16.1.0"
   }
